@@ -1,0 +1,15 @@
+create spring boot application
+api name : 
+/app1/userData
+response :
+get all user details
+
+database : userData
+table : user_Tab
+	columns : id, name, sname, phone.
+
+react : 
+use above api and show all the details in browser.
+
+
+
